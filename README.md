@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" width="400" height="300" src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/2424548a-71db-48c4-a58a-f29324ebbd8c"  />
 
-## 🌟 Welcome to My Tech Haven 💻✨
+## 🌟 Welcome to My Tech Haven💻✨
 
 - 🔭 I’m currently working on innovative Android and Python apps.
 
