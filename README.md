@@ -1,4 +1,4 @@
-<h1 align="center">  <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/68640437-549e-4552-87a4-66edfa4fd8e9" width="40px"/> Hello, tech explorers! I'm Srikanth<img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/16c7d514-cca7-4ff9-811b-7c25811591f0" width="55px"/></h1>
+<h1 align="center">  <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/68640437-549e-4552-87a4-66edfa4fd8e9" width="40px"/> Hello, Tech explorers! I'm Srikanth<img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/16c7d514-cca7-4ff9-811b-7c25811591f0" width="55px"/></h1>
 <h3 align="center">Dynamic and Innovative Fresher from India 🚀</h3>
 
 
