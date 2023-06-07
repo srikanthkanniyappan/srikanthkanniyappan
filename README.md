@@ -18,47 +18,19 @@
 
 ## 💻 Languages and Tools 
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/8396c100-f72a-4dc8-af10-3c43a4e813b5" alt="python" width="60" height="60"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/ffdac6ea-cc32-4af0-a76c-8268d3ae4ca8" alt="java" width="60" height="60"/>
-  </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/62989098-3953-4b76-be59-3c3174928073" alt="html5" width="60" height="60"/>
-  </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/50b7448a-c4e4-4aac-be99-b16fd610b48f" alt="css3" width="60" height="60"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/551130b4-1935-4878-94e7-e8a306ed299d" alt="php" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/9d4f9ab9-a5fd-4025-a027-466d4b713abe" alt="mysql" width="60" height="60"/>
-  </a>
-   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/4d9c1ff0-c68f-4601-8bb6-780b63c6a429" alt="pandas" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/044e0477-208e-4f2b-b4a1-1aaf67bb4a93" alt="git" width="60" height="60"/>
-  </a>
-   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/6a68652d-9542-4980-8eb4-caa61d3a2715" alt="xammp" width="60" height="60"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/e3d99e22-9bf5-4fdb-9121-32bc8434060f" alt="bash" width="60" height="60"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/e1cb3721-8ed6-4de6-9f4f-d94bce9215a7" alt="c" width="60" height="60"/>
-  </a>
-  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/59d05b65-21d8-44b4-8258-b902b5b3300a" alt="gtk" width="60" height="60"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/srikanthkanniyappan/srikanthkanniyappan/assets/135094991/4cf0d74f-ccd5-4473-95e2-6ffa21d60f52" alt="linux" width="60" height="60"/>
-  </a>
-</p>
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
 
 ## 📊 Github Stats 
 
