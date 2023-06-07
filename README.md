@@ -61,7 +61,7 @@
 </p>
 
 ## 📊 Github Stats 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srikanthkanniyappan&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="srikanthkanniyappan" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=srikanthkanniyappan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ## 🌐 Connect with me  
 <div align="center">
