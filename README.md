@@ -14,7 +14,7 @@
 
 - 💬 Ask me about Android, Python, coding, or any tech-related questions.
 
-- ⚡ Fun fact Code is poetry, and I'm the poet. 🖋️
+- ⚡ Fun fact: "Code is poetry, and I'm the poet." 🖋️
 
 ## 💻 Languages and Tools 
 
@@ -61,11 +61,8 @@
 </p>
 
 ## 📊 Github Stats 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=srikanthkanniyappan&theme=default&show_icons=true" />
-  </a>
-</p>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=srikanthkanniyappan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ## 🌐 Connect with me  
 <div align="center">
