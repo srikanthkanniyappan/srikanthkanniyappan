@@ -61,7 +61,11 @@
 </p>
 
 ## 📊 Github Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=srikanthkanniyappan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=srikanthkanniyappan&theme=default&show_icons=true" />
+  </a>
+</p>
 
 ## 🌐 Connect with me  
 <div align="center">
@@ -81,7 +85,6 @@
   <br>
   <a href="https://www.buymeacoffee.com/srikanthk" align="center"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="srikanthk" /></a>
 </div>  
-
 
 
 
